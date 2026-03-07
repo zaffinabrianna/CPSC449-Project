@@ -1,20 +1,20 @@
 header
 {
 	font-family: "Times New Roman", Times, serif;
-	color: #000000;
+	color: #FF7DA8;
 }
 
 header
 {
   font-family: "Times New Roman", Times, serif;
-  color: #00244E;
+  color: #FF7DA8;
 }
 
 /*Bar containg header and meets with nav*/
-.bluebar
+.pinkbar
 {
 	text-align: center;
-	background-color: #fffff;
+	background-color: #FFB5CE;
 	overflow: hidden;
 }
 	
@@ -32,7 +32,7 @@ header
 .topnav
 {
   text-align: center;
-  background-color: #00244E;
+  background-color: #FF7DA8;
   overflow: hidden;
   font-family: "Times New Roman", Times, serif;
   padding: 10px;
@@ -69,17 +69,17 @@ header
 
 main
 {
-	background-color: #fffff;
+	background-color: #FFF2F7;
 	overflow: hidden;
-	border-top: 2px solid #00244E;
-	border-left: 1px solid #00244E;
-	border-right: 1px solid #00244E;
+	border-top: 2px solid #FFB5CE;
+	border-left: 1px solid #FFB5CE;
+	border-right: 1px solid #FFB5CE;
 }
 
 h1 
 {
 	font-family: "Times New Roman", Times, serif;
-	color: #00244E;
+	color: #FF7DA8;
 	padding-right: 120px;
 	padding-top: 20px;
 }
@@ -87,14 +87,14 @@ h1
 h2
 {
 	text-align: center;
-	color: #00244E;
+	color: #FF7DA8;
 	font-family: "Times New Roman", Times, serif;
 }
 
 p
 {
 	font-family:"Times New Roman", Times, serif;
-	color: #00244E;
+	color: #FF7DA8;
 	font-size: 17px;
 }
 
@@ -110,15 +110,15 @@ p a:hover
 
 footer 
 { 
-	background-color: #00244E;
+	background-color: #FFB5CE;
 	color: #ffffff;
    	font-size: 1em;
     font-style: italic;
 	padding: 1em;
 	text-align: center;
-	border-top: 2px solid #00244E;
-	border-bottom: 2px solid #00244E;
-	border-left: 1px solid #00244E;
-	border-right: 1px solid #00244E;
+	border-top: 2px solid #FF7DA8;
+	border-bottom: 2px solid #FF7DA8;
+	border-left: 1px solid #FF7DA8;
+	border-right: 1px solid #FF7DA8;
 }
   
