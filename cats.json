@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Makima",
+    "age": 1,
+    "color": "Calico"
+  },
+  {
+    "name": "Aki",
+    "age": 1,
+    "color": "Gray"
+  },
+  {
+    "name": "Bean",
+    "age": "3 Months",
+    "color": "Tabby"
+  },
+  {
+    "name": "Meowskulls",
+    "age": "81",
+    "color": "Calico"
+  },
+  {
+    "name": "mishmish",
+    "age": "3",
+    "color": "gray, white, orange"
+  },
+  {
+    "name": "Batata",
+    "age": "2",
+    "color": "brown, orange"
+  }
+]
